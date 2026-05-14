@@ -60,10 +60,9 @@ Currently:
 
 ## 🚀 Current Projects
 
-- 🎓 Student Exam Platform using Express.js
 - 🤖 AI-powered security and anomaly detection systems
 - 📊 Data science and machine learning experiments
-- 🔐 CTF challenges & digital forensics practice
+- 🔐 CTF challenges 
 - 🌍 Full-stack web applications
 
 ---
