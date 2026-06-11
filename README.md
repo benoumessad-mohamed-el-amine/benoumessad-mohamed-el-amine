@@ -1,89 +1,72 @@
 <h1 align="center">Hi there, I'm Mohamed El Amine 👋</h1>
 
 <p align="center">
-  💻 Backend Developer | 🛡️ Cybersecurity Enthusiast | 🤖 AI & Data Science Learner
+  💻 Cybersecurity & AI Engineer | 🛡️ Hybrid Detection Systems | 🤖 Agentic AI Workflows
 </p>
 
 <p align="center">
-  📍 Based in Algeria &nbsp;|&nbsp; 🚀 Passionate about building scalable systems and solving real-world problems
+  📍 Based in Algeria &nbsp;|&nbsp; 🚀 Specializing in cutting-edge security architectures and multi-agent AI systems.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer and cybersecurity enthusiast who enjoys building backend systems, experimenting with AI models, and exploring low-level technologies.  
+I am a Computer Science engineer focused on the intersection of advanced backend architecture, intelligent AI systems, and defensive cybersecurity. I design and build end-to-end applications that bridge the gap between machine learning precision and rigorous system security.
 
-I love working on:
-- 🌐 Web development & backend engineering
-- 🧠 Machine learning & deep learning
-- 🔐 Cybersecurity & digital forensics
-- 🐧 Linux environments & system programming
-- 📊 Data analysis and intelligent systems
-
-Currently:
-- 🎓 Studying Computer Science
-- 🏆 Preparing for technical competitions and CTFs
-- ⚡ Building full-stack and AI-powered projects
-- 📚 Learning advanced backend architecture and security concepts
+I specialize in:
+- 🛡️ **Defensive Security:** Building Network Intrusion Detection Systems (NIDS) and File Integrity Monitors.
+- 🤖 **Agentic AI:** Developing multi-agent workflows, NLP pipelines, and specialized classification models.
+- ⚙️ **System Programming:** Deep dive into Linux environments, low-level mechanics, and network traffic manipulation.
+- 🎓 **Leadership:** Instructing the next wave of security peers through hands-on technical workshops.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages
+### 💻 Languages & Scripting
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,bash,r" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash,js,r" />
 </p>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css,vite,django" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-### 🧠 AI / Data Science
+### 🧠 AI Engineering & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <!-- Text backup for tools without standard icons -->
+  <br><code>LangGraph</code> | <code>LangChain</code> | <code>Scikit-Learn</code>
 </p>
 
-### 🔐 Cybersecurity & DevOps
+### 🌐 Backend & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,react,vite,html,css" />
+</p>
+
+### 🗄️ Infrastructure & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,mysql,postgres,mongodb,git,github" />
+</p>
+
+### 🔐 Cybersecurity Core
+<p>
+  <code>Scapy</code> | <code>Nmap</code> | <code>Metasploit</code> | <code>Hping3</code> | <code>Wireshark</code> | <code>Malware Analysis</code>
 </p>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Key Projects
 
-- 🤖 AI-powered security and anomaly detection systems
-- 📊 Data science and machine learning experiments
-- 🔐 CTF challenges 
-- 🌍 Full-stack web applications
-
----
-
-## 📚 Currently Learning
-
-- Advanced Backend Architecture
-- System Design
-- Deep Learning & AI Engineering
-- Malware Analysis & Memory Forensics
-- Cloud & DevOps workflows
+*   **Sentinel Flow** ── A 5-tier hybrid Network Intrusion Detection System (NIDS) integrating signature-based logging with specialized binary ML classification models for real-time threat mitigation.
+*   **Silent Fracture** ── A robust SOAR platform architected and co-developed during a grueling 38-hour development marathon at the InnoByte 2.0 Hackathon.
+*   **Product Intelligence System** ── An automated market analysis engine utilizing a complex multi-agent AI workflow to process PDF inputs and generate 3D asset representations.
+*   **File Integrity Monitor (FIM)** ── A security tracking utility featuring a high-performance command-line engine coupled with a centralized graphical administration panel.
 
 ---
 
-## 🏆 Goals
+## 🏆 Achievements & Leadership
 
-- Become a high-level backend & security engineer
-- Freelance on scalable backend systems
-- Build impactful AI-driven products
-- Contribute to open-source projects
-- Master cybersecurity and reverse engineering
+*   **3rd Place Podium Finish** ── Shellmates miniCTF at ESI (2025).
+*   **Cybersecurity Instructor** ── Designed syllabus and directed 10+ hands-on technical workshops for 23 active members at the DevUp Scientific Club.
+*   **Active CTF Competitor** ── Competed in defensive and offensive challenges, including the pentesting-focused Hackini 2.0.
 
 ---
 
@@ -93,17 +76,11 @@ Currently:
 class Developer:
     def __init__(self):
         self.name = "Mohamed El Amine"
-        self.role = "Backend Developer & Security Enthusiast"
-        self.language = ["Python", "Java", "JavaScript"]
-        self.os = "Linux"
+        self.specialties = ["Hybrid NIDS", "Multi-Agent Workflows", "System Security"]
+        self.preferred_kernel = "Linux"
     
-    def current_focus(self):
-        return [
-            "Backend Engineering",
-            "Cybersecurity",
-            "Machine Learning",
-            "CTFs"
-        ]
+    def active_status(self):
+        return "Building scalable defensive systems and optimizing agentic AI pipelines. 🚀"
 
 me = Developer()
-print("Always learning something new 🚀")
+print(me.active_status())
