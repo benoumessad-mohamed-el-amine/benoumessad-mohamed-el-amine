@@ -48,6 +48,8 @@ I specialize in:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ### 💻 Languages & Runtimes
@@ -57,66 +59,146 @@ I specialize in:
 
 ### 🌐 Backend & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,linux,docker,mongodb,postgres,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,nextjs,react,vite,tailwind&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,mongodb,postgres,mysql,git,github&theme=dark" />
 </p>
 
-### 🔐 Defensive & Systems Security
+### 🔐 Cyber Security
+
+#### 🛡️ Defensive, Hardening & Host Monitoring
 <p>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Auditd-1f425f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Inotify-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hping3-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+#### 📡 Network Recon & Scanning
+<p>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Masscan-2F4F4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RustScan-B7410E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Netcat-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shodan-B80000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amass-1E3A5F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Subfinder-0F4C81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/theHarvester-5A3E85?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maltego-1A237E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recon--ng-37474F?style=for-the-badge" />
+</p>
+
+#### 🌐 Web Application & API Testing
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caido-6C2BD9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ffuf-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Feroxbuster-D84315?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLMap-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nikto-5D4037?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WPScan-21759B?style=for-the-badge" />
+</p>
+
+#### 💥 Exploitation, AD & Post-Exploitation
+<p>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetExec-B71C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Impacket-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BloodHound-A10000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responder-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mimikatz-212121?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chisel-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ligolo--ng-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinPEAS_%2F_WinPEAS-C62828?style=for-the-badge" />
+</p>
+
+#### 🔑 Password Cracking & Wireless
+<p>
+  <img src="https://img.shields.io/badge/Hashcat-0B3D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-8D6E63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-00695C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-C2185B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bettercap-E65100?style=for-the-badge" />
+</p>
+
+#### 📊 Packet Analysis, IDS/IPS & SIEM
+<p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596cd?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hping3-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tcpdump-3E2723?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zeek-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Suricata-EF6C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Snort-F44336?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wazuh-3595F2?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Onion-1E88E5?style=for-the-badge" />
+</p>
+
+#### 🔬 Forensics, Reverse Engineering & Malware Analysis
+<p>
+  <img src="https://img.shields.io/badge/Ghidra-D32F2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/radare2_%2F_Cutter-5E35B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GDB_(pwndbg%2FGEF)-33691E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Volatility_3-B71C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autopsy-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YARA-424242?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CyberChef-00897B?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 Key Projects
 
-### 🤖 AI & Multi-Agent Systems
+### 🤖 AI Agent Security
 
 #### [firewall-warden](https://github.com/benoumessad-mohamed-el-amine/firewall-warden)
 * **What / Why:** A deterministic, offline firewall and proxy that intercepts and neutralizes dangerous tool calls in autonomous AI agent workflows.
 * **Approach:** Multi-layer security pipeline combining heuristic risk classification, homoglyph normalization, cross-call parameter taint tracking, and an offline stdio proxy for the Model Context Protocol (MCP); governs agent execution across LangGraph, CrewAI, AutoGen, and the OpenAI Agents SDK without calling an LLM.
-* **Evaluation:** 100% recall at 100% precision on a 298-sample, 25-family attack corpus; ~58 µs sub-millisecond verdict latency; 400 unit tests passing.
-* **How It Runs:** Standalone CLI (`node src/cli.mjs check`), drop-in stdio MCP proxy (`warden-mcp` via `npx` or local Node.js), or imported ES module library.
-* **Role:** Repository maintainer and author of integration docs; ported codebase to `firewall-warden`, verified test battery, structured demo scenarios, and authored threat model documentation (`SECURITY.md`).
-* **Repository:** [benoumessad-mohamed-el-amine/firewall-warden](https://github.com/benoumessad-mohamed-el-amine/firewall-warden)
+* **Evaluation:** 100% recall at 100% precision on a 298-sample, 25-family attack corpus; ~58 µs verdict latency; 400 unit tests passing.
+* **How It Runs:** Standalone CLI (`node src/cli.mjs check`), drop-in stdio MCP proxy (`warden-mcp` via `npx`), or imported ES module library.
+* **Role:** Maintainer; ported the codebase, verified the test battery, built demo scenarios, and wrote the threat model (`SECURITY.md`).
 
-#### [NetSpector Pro / Sentinel Flow](https://github.com/benoumessad-mohamed-el-amine/NetSpector-Pro)
-* **What / Why:** An automated offline network traffic triage engine designed for high-throughput packet capture analysis and threat detection.
-* **Approach:** Bounded LRU flow engine (200,000 capacity) using lightweight slot-based packet indexing (`PacketRef`), stateful TCP tracking, JA3 TLS fingerprinting, and MITRE ATT&CK kill-chain heuristics, paired with a binary ML classification tier <<TODO: add model architecture and library, e.g., Random Forest via Scikit-Learn>>.
-* **Evaluation:** Zero external dependencies (100% Python standard library in a ~413 KB `.pyz` binary); <<TODO: add dataset name (e.g. CIC-IDS2017), test accuracy, F1 score, and packet throughput latency>>.
-* **How It Runs:** Self-contained executable archive (`netspector.pyz`) via CLI and local browser-based REST triage dashboard.
-* **Role:** Solo architect and backend engineer (designed packet indexing engine, flow tracker, and forensic triage modules).
-* **Repository:** [benoumessad-mohamed-el-amine/NetSpector-Pro](https://github.com/benoumessad-mohamed-el-amine/NetSpector-Pro)
+### 🛡️ Network Defense & Detection
 
-#### Product Intelligence System
-* **What / Why:** An automated market analysis engine designed to extract product signals from commercial documents and synthesize structured intelligence.
-* **Approach:** Multi-agent pipeline processing unstructured PDF documents to generate structured insights and 3D visual representations <<TODO: verify agent framework (e.g. LangGraph) and LLM API used>>.
-* **Evaluation:** <<TODO: add evaluation benchmark, document processing accuracy, or sample throughput>>.
-* **How It Runs:** <<TODO: specify execution mode: CLI, API, or Docker>>.
-* **Role:** <<TODO: specify solo vs team contribution and codebase location>>.
-* **Repository:** <<TODO: publish or link project repository>>
+#### [NetSpector Pro](https://github.com/benoumessad-mohamed-el-amine/NetSpector-Pro)
+* **What / Why:** Offline, client-side PCAP & network-log forensic triage engine for IR teams, SOC analysts, and threat hunters.
+* **Approach:** 12 automated triage engines (TCP session reassembly, C2 beaconing, cleartext credential sniffing, lateral movement, exfiltration, DGA/entropy, TCP state auditing, …) on a bounded 200k-flow LRU engine with `__slots__` `PacketRef` indexing, stitched into per-host Cyber Kill Chain campaign timelines.
+* **Output:** STIX 2.1 bundles for SIEM/SOAR/MISP ingestion, one-click Wireshark evidence carving, JSON/HTML reports, and a local web dashboard.
+* **How It Runs:** Single zero-dependency `netspector.pyz` (~290 KB, Python stdlib only) — `./netspector.pyz capture.pcap`, live `-i eth0`, or `--web`; 23/23 unit tests passing.
+* **Role:** Solo architect and engineer.
 
-### 🔒 Security Engineering
-
-#### Silent Fracture (SOAR Platform)
-* **What / Why:** A security orchestration, automation, and response (SOAR) platform designed for centralized alert triage and automated incident response workflows.
-* **Approach:** Coordinated incident response backend handling alert ingestion and containment automation.
-* **Evaluation:** Architected and implemented in a 38-hour development sprint during the InnoByte 2.0 Hackathon; <<TODO: add benchmark metrics, e.g., mean time to remediate (MTTR) or simulated alert volume handled>>.
-* **How It Runs:** <<TODO: specify deployment architecture: Docker containers, CLI, or web service>>.
-* **Role:** Co-developer and backend architect in a team of 4 (led backend service implementation and system design).
-* **Repository:** <<TODO: link repository or submission demo>>
+#### [Network Guardian IDS Dashboard](https://github.com/benoumessad-mohamed-el-amine/network-guardian-dashboard)
+* **What / Why:** Full-stack network intrusion detection system with live packet capture and ML-based attack classification.
+* **Approach:** Real-time Scapy sniffer (incl. WiFi interface selection) feeding a flow extractor and a **two-tier hierarchical Random Forest** — binary anomaly detector, then specialist classifiers for port scan, SYN flood, DDoS, and brute force.
+* **Stack:** Django REST Framework backend (alerts, audit logs, Slack/console notifications) + React/TypeScript/Vite dashboard with live charts and alert feed.
 
 #### [File Integrity Monitor (FIM)](https://github.com/benoumessad-mohamed-el-amine/file-monitoring-integrity-FIM-)
-* **What / Why:** A Linux host-based file integrity monitoring utility that detects unauthorized file system modifications and correlates changes to specific users and processes.
-* **Approach:** POSIX Bash engine combining real-time `inotifywait` filesystem hooks, Linux `auditd` kernel event logging for PID/user attribution, and cryptographic hash baseline comparisons.
-* **Evaluation:** Real-time recursive directory monitoring with desktop notification dispatch; zero third-party compiled dependencies.
-* **How It Runs:** Local Linux shell script executed with root privileges (`sudo bash monitor.sh [target_dir]`).
-* **Role:** Solo developer.
-* **Repository:** [benoumessad-mohamed-el-amine/file-monitoring-integrity-FIM-](https://github.com/benoumessad-mohamed-el-amine/file-monitoring-integrity-FIM-)
+* **What / Why:** Linux host-based FIM that detects unauthorized file changes and attributes them to users and processes.
+* **Approach:** Bash engine combining real-time `inotifywait` hooks, `auditd` kernel events for PID/user attribution, and cryptographic hash baselines; desktop notifications on change.
+* **How It Runs:** `sudo bash monitor.sh [target_dir]` — no compiled dependencies.
+
+#### Silent Fracture (SOAR Platform) — *InnoByte 2.0 Hackathon*
+* Security orchestration, automation & response platform for centralized alert triage and automated containment, built in a 38-hour sprint by a team of 4. I led the backend service implementation and system design.
+
+### ⚔️ Offensive Security & Tooling
+
+#### [red-teaming-tools](https://github.com/benoumessad-mohamed-el-amine/red-teaming-tools)
+* Python toolkit for authorized penetration testing and security research, including a WiFi assessment tool built on the aircrack-ng suite (interface management, network detection, logging).
+
+#### [password-tester](https://github.com/benoumessad-mohamed-el-amine/password-tester)
+* Django password-strength analyzer with entropy scoring, time-to-crack estimation (at 10B guesses/s), and a REST API; passwords are processed in memory only. Containerized with Docker / docker-compose.
+
+### 🧩 Other Builds
+
+| Project | Description | Stack |
+|---|---|---|
+| [point-of-sale](https://github.com/benoumessad-mohamed-el-amine/point-of-sale) | Real-time stock & POS system: multi-branch inventory, barcode scanning, thermal receipts, role-based auth | Next.js, TypeScript, MongoDB, Socket.IO, NextAuth |
+| [umbb-exam-platform](https://github.com/benoumessad-mohamed-el-amine/umbb-exam-platform) | Online exam platform with timed exams, student/admin dashboards, and a rootless MariaDB bootstrap script | Node.js, Express, MariaDB |
+| [Social-Media-Automation](https://github.com/benoumessad-mohamed-el-amine/Social-Media-Automation) | Discord bot managing Facebook/Instagram/LinkedIn/TikTok via OAuth2 with scheduling and encrypted tokens | Python, discord.py, MongoDB, Docker |
+| [portfolio](https://github.com/benoumessad-mohamed-el-amine/portfolio) | Personal portfolio site | React, TypeScript, Vite, Framer Motion |
 
 ---
 
@@ -155,7 +237,7 @@ I specialize in:
 class Developer:
     def __init__(self):
         self.name = "Mohamed El Amine"
-        self.specialties = ["Hybrid NIDS", "Multi-Agent Workflows", "System Security"]
+        self.specialties = ["AI Agent Security", "Network Forensics & NIDS", "Red Teaming"]
         self.preferred_kernel = "Linux"
 
     def active_status(self):
